@@ -1,0 +1,21 @@
+DEMO MEDICAL CENTER LABORATORY  (SYNTHETIC DEMO DATA - NOT A REAL PERSON)
+Patient Name: Demo Patient
+Date: 2026-01-01
+Report ID: DEMO-0001
+
+COMPLETE BLOOD COUNT (CBC) & LIPID PROFILE REPORT
+
+Test Name               Observed Value      Reference Range     Unit
+-------------------------------------------------------------------------
+Hemoglobin              14.0                13.5 - 17.5         g/dL
+WBC Count               6,800               4,500 - 11,000      /uL
+Platelet Count          260,000             150,000 - 450,000   /uL
+Fasting Blood Sugar     104                 70 - 99             mg/dL
+Total Cholesterol       205                 < 200               mg/dL
+Triglycerides           155                 < 150               mg/dL
+HDL Cholesterol         46                  > 40                mg/dL
+LDL Cholesterol         128                 < 100               mg/dL
+
+Doctor Notes / Impression:
+Fasting glucose and LDL cholesterol slightly above standard reference ranges.
+Synthetic example only. Recommend discussing results with a qualified healthcare professional.

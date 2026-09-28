@@ -1,0 +1,32 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs / temp
+*.log
+runtime/
+tmp/
+temp/
+
+# Runtime user data (created by the app at run time; may contain health data or API keys)
+uploads/*
+!uploads/.gitkeep
+uploads/prescriptions/*
+!uploads/prescriptions/.gitkeep
+
+# Everything in data/ is runtime state EXCEPT the static knowledge base
+data/*
+!data/health_knowledge.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

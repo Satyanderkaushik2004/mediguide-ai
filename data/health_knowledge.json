@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fever",
+    "title": "Fever",
+    "what_it_is": "A temporary rise in body temperature, often as the body's natural response to fighting an infection.",
+    "common_symptoms": ["Body temperature above the usual range", "Chills or shivering", "Sweating", "Headache", "Muscle aches", "General weakness"],
+    "general_info": "Fever itself is usually a sign that the body's immune system is responding to something, such as a viral or bacterial infection, rather than a condition on its own.",
+    "when_to_seek_care": "Seek medical care for a very high or persistent fever, a fever lasting more than a few days, a fever in an infant, or if it's accompanied by severe symptoms like difficulty breathing, confusion, stiff neck, or a rash.",
+    "references": ["World Health Organization", "CDC"]
+  },
+  {
+    "id": "headache",
+    "title": "Headache",
+    "what_it_is": "Pain or discomfort in the head or upper neck region, with many possible causes ranging from tension to underlying conditions.",
+    "common_symptoms": ["Dull or throbbing pain", "Pain on one or both sides", "Sensitivity to light or sound", "Nausea in some cases"],
+    "general_info": "Most headaches are tension-type or related to factors like dehydration, poor sleep, or stress, but some patterns can point to conditions like migraine.",
+    "when_to_seek_care": "Seek care urgently for a sudden 'worst headache of your life,' a headache with fever and stiff neck, confusion, vision changes, weakness, or a headache following a head injury.",
+    "references": ["Mayo Clinic", "NHS"]
+  },
+  {
+    "id": "cough",
+    "title": "Cough",
+    "what_it_is": "A reflex that helps clear the airway of irritants, mucus, or foreign particles.",
+    "common_symptoms": ["Dry or wet (productive) cough", "Throat irritation", "Chest discomfort with forceful coughing"],
+    "general_info": "Coughs are commonly linked to colds, allergies, or irritants, though a persistent cough can have other causes.",
+    "when_to_seek_care": "Seek care for a cough lasting more than a few weeks, a cough with blood, high fever, unexplained weight loss, or significant difficulty breathing.",
+    "references": ["CDC", "NHS"]
+  },
+  {
+    "id": "sore-throat",
+    "title": "Sore Throat",
+    "what_it_is": "Pain, scratchiness, or irritation of the throat, often worsened by swallowing.",
+    "common_symptoms": ["Pain when swallowing", "Dry or scratchy feeling", "Swollen glands", "Hoarse voice"],
+    "general_info": "Sore throats are frequently caused by viral infections such as the common cold, though bacterial infections like strep throat are also possible.",
+    "when_to_seek_care": "Seek care for a severe sore throat, difficulty swallowing or breathing, a high fever, or a sore throat lasting more than a week.",
+    "references": ["Mayo Clinic"]
+  },
+  {
+    "id": "stomach-pain",
+    "title": "Stomach Pain",
+    "what_it_is": "Discomfort or pain felt anywhere between the chest and pelvic region, with many possible causes.",
+    "common_symptoms": ["Cramping", "Bloating", "Nausea", "Changes in bowel habits"],
+    "general_info": "Stomach pain can range from mild, self-limiting issues like indigestion to conditions that need prompt attention, depending on location, severity, and associated symptoms.",
+    "when_to_seek_care": "Seek care urgently for severe or sudden abdominal pain, pain with a rigid abdomen, persistent vomiting, blood in stool or vomit, or pain following an injury.",
+    "references": ["NHS", "Mayo Clinic"]
+  },
+  {
+    "id": "dehydration",
+    "title": "Dehydration",
+    "what_it_is": "A condition where the body loses more fluids than it takes in, affecting normal bodily functions.",
+    "common_symptoms": ["Thirst", "Dark urine", "Fatigue", "Dizziness", "Dry mouth"],
+    "general_info": "Mild dehydration is common and usually improves with fluids, but it can become serious, especially in children, older adults, and during illness with vomiting or diarrhea.",
+    "when_to_seek_care": "Seek care for signs of severe dehydration such as confusion, rapid heartbeat, very little or no urination, or inability to keep fluids down.",
+    "references": ["WHO", "CDC"]
+  },
+  {
+    "id": "common-cold",
+    "title": "Common Cold",
+    "what_it_is": "A mild viral infection of the nose and throat, one of the most frequent illnesses.",
+    "common_symptoms": ["Runny or stuffy nose", "Sneezing", "Sore throat", "Mild cough", "Low-grade fever"],
+    "general_info": "Colds are generally self-limiting and improve within a week to ten days with rest and fluids.",
+    "when_to_seek_care": "Seek care if symptoms worsen after a week, if there's high fever, significant difficulty breathing, or symptoms that don't improve as expected.",
+    "references": ["CDC"]
+  },
+  {
+    "id": "migraine",
+    "title": "Migraine",
+    "what_it_is": "A neurological condition causing intense, often throbbing headaches, sometimes with additional symptoms.",
+    "common_symptoms": ["Throbbing pain, often on one side", "Nausea or vomiting", "Sensitivity to light and sound", "Visual disturbances (aura) in some cases"],
+    "general_info": "Migraines can be triggered by factors like stress, certain foods, hormonal changes, or sleep disruption, and patterns vary a lot between individuals.",
+    "when_to_seek_care": "Seek care for a first-time severe migraine-like headache, a sudden change in your usual migraine pattern, or if accompanied by weakness, confusion, or vision loss.",
+    "references": ["Mayo Clinic"]
+  },
+  {
+    "id": "allergies",
+    "title": "Allergies",
+    "what_it_is": "An immune system reaction to a substance (allergen) that is normally harmless.",
+    "common_symptoms": ["Sneezing", "Itchy or watery eyes", "Runny nose", "Skin rash or hives", "In severe cases, swelling or difficulty breathing"],
+    "general_info": "Allergic reactions range from mild seasonal symptoms to more significant reactions depending on the allergen and individual sensitivity.",
+    "when_to_seek_care": "Seek emergency care immediately for signs of a severe allergic reaction (anaphylaxis) such as difficulty breathing, throat swelling, or widespread hives with dizziness.",
+    "references": ["NHS", "CDC"]
+  },
+  {
+    "id": "back-pain",
+    "title": "Back Pain",
+    "what_it_is": "Discomfort or pain in the back, commonly in the lower back, affecting most people at some point.",
+    "common_symptoms": ["Dull ache or sharp pain", "Stiffness", "Reduced range of motion", "Pain that may radiate to the legs"],
+    "general_info": "Back pain is often related to muscle strain or posture, and most cases improve with time, gentle movement, and self-care.",
+    "when_to_seek_care": "Seek care urgently for back pain with numbness or weakness in the legs, loss of bladder or bowel control, or pain following a significant injury.",
+    "references": ["Mayo Clinic", "NHS"]
+  }
+]

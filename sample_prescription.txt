@@ -1,0 +1,13 @@
+DEMO MEDICAL CENTER - PRESCRIPTION  (SYNTHETIC DEMO DATA - NOT A REAL PRESCRIPTION)
+Doctor: Dr. Demo Physician (Internal Medicine)
+Patient: Demo Patient
+Date: 2026-01-01
+Report ID: DEMO-0002
+
+Prescribed Medications (fictional example):
+1. Amoxicillin 500mg - 1 capsule three times daily for 7 days after meals.
+2. Paracetamol 650mg - 1 tablet as needed for fever every 6 hours (max 3 per day).
+3. Cetirizine 10mg - 1 tablet once daily at bedtime for 5 days.
+
+Special Instructions:
+Synthetic example for software demonstration only. Not medical advice.
